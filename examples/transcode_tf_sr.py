@@ -150,7 +150,7 @@ def write_frame(process2, frame):
 def run(in_filename, out_filename, process_frame):
     width, height = get_video_size(in_filename)
     # HW decoder (windows)
-    process1 = start_ffmpeg_process1_qsv(in_filename)
+    process1 = start_ffmpeg_process1(in_filename)
     # HW encoder
     process2 = start_ffmpeg_process2_qsv(out_filename, width, height)
     while True:
