@@ -1,15 +1,6 @@
-# Transcode_tf_sr.py
 
 
-## [Jupyter Frame Viewer](https://github.com/kkroening/ffmpeg-python/blob/master/examples/ffmpeg-numpy.ipynb)
-
-<img src="https://raw.githubusercontent.com/kkroening/ffmpeg-python/master/doc/jupyter-screenshot.png" alt="jupyter screenshot" width="75%" />
-
-## [Jupyter Stream Editor](https://github.com/kkroening/ffmpeg-python/blob/master/examples/ffmpeg-numpy.ipynb)
-
-<img src="https://raw.githubusercontent.com/kkroening/ffmpeg-python/master/doc/jupyter-demo.gif" alt="jupyter demo" width="75%" />
-
-## [Tensorflow Streaming](https://github.com/kkroening/ffmpeg-python/blob/master/examples/tensorflow_stream.py)
+## [Transcode with super resolution](https://github.com/kkroening/ffmpeg-python/blob/master/examples/tensorflow_stream.py)
 
 <img src="https://raw.githubusercontent.com/kkroening/ffmpeg-python/master/examples/graphs/tensorflow-stream.png" alt="tensorflow streaming; challenge mode: combine this with the webcam example below" width="55%" />
 
